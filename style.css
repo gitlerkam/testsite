@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+}
+main h1{
+    text-align: center;
+    color: blue;
+}
+footer p{
+    border: 10px solid;
+    color: darkblue;
+}
+
+p{
+    font-family: cursive;
+}
+nav a{
+     text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+p{
+    border: darkblue solid 5px;
+}
